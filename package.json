@@ -1,0 +1,26 @@
+{
+  "name": "kittennpm4",
+  "version": "1.0.0",
+  "description": "kitten",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjtu-lyh/kittennpm4.git"
+  },
+  "author": "kitten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xjtu-lyh/kittennpm4/issues"
+  },
+  "homepage": "https://github.com/xjtu-lyh/kittennpm4#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "kittennpm": "^1.0.5",
+    "mencret": "^1.1.0",
+    "kittennpm2": "^1.0.0",
+    "kittennpm3": "^1.0.0"
+  }
+}
