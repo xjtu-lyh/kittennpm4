@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xjtu-lyh/kittennpm4.git"
+    "url": "https://github.com/xjtu-lyh/kittennpm4.git"
   },
   "author": "kitten",
   "license": "MIT",
